@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantpunde&label=Profile%20views&color=0e75b6&style=flat" alt="nishantpunde" /> </p>
 
-- 🌱 I’m currently learning **TYPESCRIPT,REDUX TOOLKIT,AWS**
 
 - 👨‍💻 All of my projects are available at [https://nishantpunde.tech/](https://nishantpunde.tech/)
 
